@@ -24,6 +24,11 @@ npm install contentful
 ```
 npm install react-router
 ```
+## Install React-Router-Dom
+```
+npm install react-router-dom
+```
+
 ## proxy to backend in different host
 ```
 vim package.json
