@@ -20,3 +20,12 @@ npm install @material-ui/core
 ```
 npm install contentful
 ```
+## Install the react router library
+```
+npm install react-router
+```
+## proxy to backend in different host
+```
+vim package.json
+"proxy": "http://12.0.0.1:5000/"
+```
